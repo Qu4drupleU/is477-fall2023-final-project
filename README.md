@@ -7,7 +7,7 @@ This project focuses on the analysis and visualization of the Wine Quality datas
 Our analysis revealed that certain factors, such as alcohol content and acidity, have a significant influence on wine quality. The regression model indicated a strong relationship between these variables and the quality rating. Visualizations, such as histograms and scatter plots, provided further insights into the distribution of quality ratings and their correlation with key properties.
 
 ## Workflow
-![Workflow Diagram](results/wine_quality_histogram.png)
+![Workflow Diagram](graph.png)
 
 ## Reproducing the Analysis
 To reproduce this analysis:
