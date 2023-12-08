@@ -1,5 +1,5 @@
 # is477-fall2023-final-project
-
+[![DOI](https://zenodo.org/badge/728980799.svg)](https://zenodo.org/doi/10.5281/zenodo.10300307)
 ## Overview
 This project focuses on the analysis and visualization of the Wine Quality dataset, specifically the red variant from the Vinho Verde region in Portugal. The dataset, obtained from the UCI Machine Learning Repository, features physicochemical properties of the wine like acidity, sugar content, and alcohol level, along with a quality rating. Our analysis aims to uncover patterns and insights into what factors contribute to the quality of wine. We apply various data analysis techniques, including summary statistics, linear regression modeling, and data visualization, to understand the relationships between different physicochemical properties and wine quality.
 
