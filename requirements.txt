@@ -1,0 +1,6 @@
+pandas
+ydata-profiling
+matplotlib
+scikit-learn
+snakemake
+requests
