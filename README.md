@@ -12,7 +12,7 @@ Our analysis revealed that certain factors, such as alcohol content and acidity,
 ## Reproducing the Analysis
 To reproduce this analysis:
 1. Clone the repository: `git clone <https://github.com/Qu4drupleU/is477-fall2023-final-project>`
-2.  Run `docker pull caishista/is477-fall2023:final-project` to pull the pre-built image from Docker Hub.
+2.  Run `docker pull caishista/is477-fall2023-final-project:v1` to pull the pre-built image from Docker Hub.
 3. Run the Docker container: `docker run caishista/is477-fall2023:final-project`
 4. The results will be available in the `results/` directory.
 
