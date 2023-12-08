@@ -1,0 +1,22 @@
+{
+    "title": "IS 477 Final Project",
+    "description": "This project focuses on the analysis and visualization of the Wine Quality dataset, specifically the red variant from the Vinho Verde region in Portugal.",
+    "creators": [
+        {
+            "name": "Wu, Maison",
+            "orcid": "0009-0004-2059-1992"
+        }
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.24432/C56S3T",
+            "relation": "cites",
+            "resource_type": "dataset"
+        }
+    ],
+    "license": "MIT",
+    "access_right": "open",
+    "upload_type": "software",
+    "keywords": ["Wine", "Python Programming","Exploratory Data Analysis"]
+}
